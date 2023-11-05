@@ -1,0 +1,11 @@
+name: RookisBoss
+version: '${project.version}'
+main: world.lemmy.rookisboss.RookisBoss
+api-version: '1.20'
+commands:
+    rookisboss:
+        description: RookisBoss command
+        usage: /<command>
+    quests:
+        description: Here you can find some custom Boss Quests
+        usage: /<command>
